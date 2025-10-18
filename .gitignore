@@ -1,0 +1,15 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python-specific files
+__pycache__/
+*.pyc
+
+# Data/Machine Learning files (Will be huge!)
+24_NN/model.h5
+24_NN/training_data.csv
+
+# Operating System Files
+.DS_Store
+Thumbs.db
