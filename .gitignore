@@ -8,7 +8,7 @@ __pycache__/
 
 # Data/Machine Learning files (Will be huge!)
 24_NN/model.h5
-24_NN/training_data.csv
+24_NN/24_game_data.csv
 
 # Operating System Files
 .DS_Store
