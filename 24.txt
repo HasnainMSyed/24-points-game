@@ -1,0 +1,523 @@
+# 24 -> 7911
+# 1 -> 8877
+# 2 -> 9747
+# 3 -> 9334
+# 4 -> 9190
+# 5 -> 8859
+# 6 -> 8971
+# 7 -> 8796
+# 8 -> 8689
+# 9 -> 8739
+# 10 -> 8612
+# 11 -> 8376
+# 12 -> 8681
+# 13 -> 8099
+# 14 -> 8462
+# 15 -> 8366
+# 16 -> 8231
+# 17 -> 7384
+# 18 -> 8171
+# 19 -> 7107
+# 20 -> 7976
+# 21 -> 7345
+# 22 -> 7397
+# 23 -> 6796
+# 25 -> 6480
+# 26 -> 7115
+# 27 -> 6868
+# 28 -> 7134
+# 29 -> 5929
+# 30 -> 7046
+# 31 -> 5577
+# 32 -> 6683
+# 33 -> 6336
+# 34 -> 5500
+# 35 -> 6327
+# 36 -> 7474
+# 37 -> 5212
+# 38 -> 5280
+# 39 -> 5893
+# 40 -> 7017
+
+
+For target 24, starting data generation for 10000 samples...
+For target 24, 1000 attempts processed. Solvable Puzzle Collected: 786
+For target 24, 2000 attempts processed. Solvable Puzzle Collected: 1570
+For target 24, 3000 attempts processed. Solvable Puzzle Collected: 2376
+For target 24, 4000 attempts processed. Solvable Puzzle Collected: 3150
+For target 24, 5000 attempts processed. Solvable Puzzle Collected: 3937
+For target 24, 6000 attempts processed. Solvable Puzzle Collected: 4736
+For target 24, 7000 attempts processed. Solvable Puzzle Collected: 5530
+For target 24, 8000 attempts processed. Solvable Puzzle Collected: 6321
+For target 24, 9000 attempts processed. Solvable Puzzle Collected: 7119
+For target 24, 10000 attempts processed. Solvable Puzzle Collected: 7911
+Data saved successfully to 24_NN\24_game_data.csv
+For target 1, starting data generation for 10000 samples...
+For target 1, 1000 attempts processed. Solvable Puzzle Collected: 876
+For target 1, 2000 attempts processed. Solvable Puzzle Collected: 1762
+For target 1, 3000 attempts processed. Solvable Puzzle Collected: 2654
+For target 1, 4000 attempts processed. Solvable Puzzle Collected: 3529
+For target 1, 5000 attempts processed. Solvable Puzzle Collected: 4407
+For target 1, 6000 attempts processed. Solvable Puzzle Collected: 5325
+For target 1, 7000 attempts processed. Solvable Puzzle Collected: 6210
+For target 1, 8000 attempts processed. Solvable Puzzle Collected: 7112
+For target 1, 9000 attempts processed. Solvable Puzzle Collected: 8002
+For target 1, 10000 attempts processed. Solvable Puzzle Collected: 8877
+Data saved successfully to 24_NN\24_game_data.csv
+For target 2, starting data generation for 10000 samples...
+For target 2, 1000 attempts processed. Solvable Puzzle Collected: 983
+For target 2, 2000 attempts processed. Solvable Puzzle Collected: 1957
+For target 2, 3000 attempts processed. Solvable Puzzle Collected: 2933
+For target 2, 4000 attempts processed. Solvable Puzzle Collected: 3911
+For target 2, 5000 attempts processed. Solvable Puzzle Collected: 4892
+For target 2, 6000 attempts processed. Solvable Puzzle Collected: 5868
+For target 2, 7000 attempts processed. Solvable Puzzle Collected: 6839
+For target 2, 8000 attempts processed. Solvable Puzzle Collected: 7814
+For target 2, 9000 attempts processed. Solvable Puzzle Collected: 8771
+For target 2, 10000 attempts processed. Solvable Puzzle Collected: 9747
+Data saved successfully to 24_NN\24_game_data.csv
+For target 3, starting data generation for 10000 samples...
+For target 3, 1000 attempts processed. Solvable Puzzle Collected: 931
+For target 3, 2000 attempts processed. Solvable Puzzle Collected: 1858
+For target 3, 3000 attempts processed. Solvable Puzzle Collected: 2802
+For target 3, 4000 attempts processed. Solvable Puzzle Collected: 3747
+For target 3, 5000 attempts processed. Solvable Puzzle Collected: 4680
+For target 3, 6000 attempts processed. Solvable Puzzle Collected: 5613
+For target 3, 7000 attempts processed. Solvable Puzzle Collected: 6560
+For target 3, 8000 attempts processed. Solvable Puzzle Collected: 7471
+For target 3, 9000 attempts processed. Solvable Puzzle Collected: 8407
+For target 3, 10000 attempts processed. Solvable Puzzle Collected: 9334
+Data saved successfully to 24_NN\24_game_data.csv
+For target 4, starting data generation for 10000 samples...
+For target 4, 1000 attempts processed. Solvable Puzzle Collected: 918
+For target 4, 2000 attempts processed. Solvable Puzzle Collected: 1846
+For target 4, 3000 attempts processed. Solvable Puzzle Collected: 2764
+For target 4, 4000 attempts processed. Solvable Puzzle Collected: 3699
+For target 4, 5000 attempts processed. Solvable Puzzle Collected: 4613
+For target 4, 6000 attempts processed. Solvable Puzzle Collected: 5534
+For target 4, 7000 attempts processed. Solvable Puzzle Collected: 6440
+For target 4, 8000 attempts processed. Solvable Puzzle Collected: 7355
+For target 4, 9000 attempts processed. Solvable Puzzle Collected: 8274
+For target 4, 10000 attempts processed. Solvable Puzzle Collected: 9190
+Data saved successfully to 24_NN\24_game_data.csv
+For target 5, starting data generation for 10000 samples...
+For target 5, 1000 attempts processed. Solvable Puzzle Collected: 893
+For target 5, 2000 attempts processed. Solvable Puzzle Collected: 1788
+For target 5, 3000 attempts processed. Solvable Puzzle Collected: 2663
+For target 5, 4000 attempts processed. Solvable Puzzle Collected: 3552
+For target 5, 5000 attempts processed. Solvable Puzzle Collected: 4445
+For target 5, 6000 attempts processed. Solvable Puzzle Collected: 5332
+For target 5, 7000 attempts processed. Solvable Puzzle Collected: 6227
+For target 5, 8000 attempts processed. Solvable Puzzle Collected: 7104
+For target 5, 9000 attempts processed. Solvable Puzzle Collected: 7987
+For target 5, 10000 attempts processed. Solvable Puzzle Collected: 8859
+Data saved successfully to 24_NN\24_game_data.csv
+For target 6, starting data generation for 10000 samples...
+For target 6, 1000 attempts processed. Solvable Puzzle Collected: 903
+For target 6, 2000 attempts processed. Solvable Puzzle Collected: 1805
+For target 6, 3000 attempts processed. Solvable Puzzle Collected: 2707
+For target 6, 4000 attempts processed. Solvable Puzzle Collected: 3599
+For target 6, 5000 attempts processed. Solvable Puzzle Collected: 4501
+For target 6, 6000 attempts processed. Solvable Puzzle Collected: 5391
+For target 6, 7000 attempts processed. Solvable Puzzle Collected: 6291
+For target 6, 8000 attempts processed. Solvable Puzzle Collected: 7189
+For target 6, 9000 attempts processed. Solvable Puzzle Collected: 8082
+For target 6, 10000 attempts processed. Solvable Puzzle Collected: 8971
+Data saved successfully to 24_NN\24_game_data.csv
+For target 7, starting data generation for 10000 samples...
+For target 7, 1000 attempts processed. Solvable Puzzle Collected: 872
+For target 7, 2000 attempts processed. Solvable Puzzle Collected: 1741
+For target 7, 3000 attempts processed. Solvable Puzzle Collected: 2616
+For target 7, 4000 attempts processed. Solvable Puzzle Collected: 3490
+For target 7, 5000 attempts processed. Solvable Puzzle Collected: 4379
+For target 7, 6000 attempts processed. Solvable Puzzle Collected: 5263
+For target 7, 7000 attempts processed. Solvable Puzzle Collected: 6170
+For target 7, 8000 attempts processed. Solvable Puzzle Collected: 7049
+For target 7, 9000 attempts processed. Solvable Puzzle Collected: 7935
+For target 7, 10000 attempts processed. Solvable Puzzle Collected: 8796
+Data saved successfully to 24_NN\24_game_data.csv
+For target 8, starting data generation for 10000 samples...
+For target 8, 1000 attempts processed. Solvable Puzzle Collected: 843
+For target 8, 2000 attempts processed. Solvable Puzzle Collected: 1726
+For target 8, 3000 attempts processed. Solvable Puzzle Collected: 2608
+For target 8, 4000 attempts processed. Solvable Puzzle Collected: 3484
+For target 8, 5000 attempts processed. Solvable Puzzle Collected: 4357
+For target 8, 6000 attempts processed. Solvable Puzzle Collected: 5212
+For target 8, 7000 attempts processed. Solvable Puzzle Collected: 6082
+For target 8, 8000 attempts processed. Solvable Puzzle Collected: 6951
+For target 8, 9000 attempts processed. Solvable Puzzle Collected: 7827
+For target 8, 10000 attempts processed. Solvable Puzzle Collected: 8689
+Data saved successfully to 24_NN\24_game_data.csv
+For target 9, starting data generation for 10000 samples...
+For target 9, 1000 attempts processed. Solvable Puzzle Collected: 877
+For target 9, 2000 attempts processed. Solvable Puzzle Collected: 1742
+For target 9, 3000 attempts processed. Solvable Puzzle Collected: 2620
+For target 9, 4000 attempts processed. Solvable Puzzle Collected: 3501
+For target 9, 5000 attempts processed. Solvable Puzzle Collected: 4377
+For target 9, 6000 attempts processed. Solvable Puzzle Collected: 5230
+For target 9, 7000 attempts processed. Solvable Puzzle Collected: 6104
+For target 9, 8000 attempts processed. Solvable Puzzle Collected: 6989
+For target 9, 9000 attempts processed. Solvable Puzzle Collected: 7853
+For target 9, 10000 attempts processed. Solvable Puzzle Collected: 8739
+Data saved successfully to 24_NN\24_game_data.csv
+For target 10, starting data generation for 10000 samples...
+For target 10, 1000 attempts processed. Solvable Puzzle Collected: 861
+For target 10, 2000 attempts processed. Solvable Puzzle Collected: 1730
+For target 10, 3000 attempts processed. Solvable Puzzle Collected: 2584
+For target 10, 4000 attempts processed. Solvable Puzzle Collected: 3465
+For target 10, 5000 attempts processed. Solvable Puzzle Collected: 4317
+For target 10, 6000 attempts processed. Solvable Puzzle Collected: 5177
+For target 10, 7000 attempts processed. Solvable Puzzle Collected: 6037
+For target 10, 8000 attempts processed. Solvable Puzzle Collected: 6910
+For target 10, 9000 attempts processed. Solvable Puzzle Collected: 7758
+For target 10, 10000 attempts processed. Solvable Puzzle Collected: 8612
+Data saved successfully to 24_NN\24_game_data.csv
+For target 11, starting data generation for 10000 samples...
+For target 11, 1000 attempts processed. Solvable Puzzle Collected: 840
+For target 11, 2000 attempts processed. Solvable Puzzle Collected: 1682
+For target 11, 3000 attempts processed. Solvable Puzzle Collected: 2513
+For target 11, 4000 attempts processed. Solvable Puzzle Collected: 3317
+For target 11, 5000 attempts processed. Solvable Puzzle Collected: 4157
+For target 11, 6000 attempts processed. Solvable Puzzle Collected: 5004
+For target 11, 7000 attempts processed. Solvable Puzzle Collected: 5853
+For target 11, 8000 attempts processed. Solvable Puzzle Collected: 6691
+For target 11, 9000 attempts processed. Solvable Puzzle Collected: 7532
+For target 11, 10000 attempts processed. Solvable Puzzle Collected: 8376
+Data saved successfully to 24_NN\24_game_data.csv
+For target 12, starting data generation for 10000 samples...
+For target 12, 1000 attempts processed. Solvable Puzzle Collected: 870
+For target 12, 2000 attempts processed. Solvable Puzzle Collected: 1727
+For target 12, 3000 attempts processed. Solvable Puzzle Collected: 2611
+For target 12, 4000 attempts processed. Solvable Puzzle Collected: 3484
+For target 12, 5000 attempts processed. Solvable Puzzle Collected: 4363
+For target 12, 6000 attempts processed. Solvable Puzzle Collected: 5236
+For target 12, 7000 attempts processed. Solvable Puzzle Collected: 6113
+For target 12, 8000 attempts processed. Solvable Puzzle Collected: 6956
+For target 12, 9000 attempts processed. Solvable Puzzle Collected: 7820
+For target 12, 10000 attempts processed. Solvable Puzzle Collected: 8681
+Data saved successfully to 24_NN\24_game_data.csv
+For target 13, starting data generation for 10000 samples...
+For target 13, 1000 attempts processed. Solvable Puzzle Collected: 788
+For target 13, 2000 attempts processed. Solvable Puzzle Collected: 1588
+For target 13, 3000 attempts processed. Solvable Puzzle Collected: 2398
+For target 13, 4000 attempts processed. Solvable Puzzle Collected: 3224
+For target 13, 5000 attempts processed. Solvable Puzzle Collected: 4031
+For target 13, 6000 attempts processed. Solvable Puzzle Collected: 4862
+For target 13, 7000 attempts processed. Solvable Puzzle Collected: 5675
+For target 13, 8000 attempts processed. Solvable Puzzle Collected: 6499
+For target 13, 9000 attempts processed. Solvable Puzzle Collected: 7296
+For target 13, 10000 attempts processed. Solvable Puzzle Collected: 8099
+Data saved successfully to 24_NN\24_game_data.csv
+For target 14, starting data generation for 10000 samples...
+For target 14, 1000 attempts processed. Solvable Puzzle Collected: 829
+For target 14, 2000 attempts processed. Solvable Puzzle Collected: 1660
+For target 14, 3000 attempts processed. Solvable Puzzle Collected: 2496
+For target 14, 4000 attempts processed. Solvable Puzzle Collected: 3370
+For target 14, 5000 attempts processed. Solvable Puzzle Collected: 4214
+For target 14, 6000 attempts processed. Solvable Puzzle Collected: 5069
+For target 14, 7000 attempts processed. Solvable Puzzle Collected: 5914
+For target 14, 8000 attempts processed. Solvable Puzzle Collected: 6749
+For target 14, 9000 attempts processed. Solvable Puzzle Collected: 7602
+For target 14, 10000 attempts processed. Solvable Puzzle Collected: 8462
+Data saved successfully to 24_NN\24_game_data.csv
+For target 15, starting data generation for 10000 samples...
+For target 15, 1000 attempts processed. Solvable Puzzle Collected: 828
+For target 15, 2000 attempts processed. Solvable Puzzle Collected: 1691
+For target 15, 3000 attempts processed. Solvable Puzzle Collected: 2518
+For target 15, 4000 attempts processed. Solvable Puzzle Collected: 3359
+For target 15, 5000 attempts processed. Solvable Puzzle Collected: 4206
+For target 15, 6000 attempts processed. Solvable Puzzle Collected: 5032
+For target 15, 7000 attempts processed. Solvable Puzzle Collected: 5853
+For target 15, 8000 attempts processed. Solvable Puzzle Collected: 6702
+For target 15, 9000 attempts processed. Solvable Puzzle Collected: 7526
+For target 15, 10000 attempts processed. Solvable Puzzle Collected: 8366
+Data saved successfully to 24_NN\24_game_data.csv
+For target 16, starting data generation for 10000 samples...
+For target 16, 1000 attempts processed. Solvable Puzzle Collected: 816
+For target 16, 2000 attempts processed. Solvable Puzzle Collected: 1633
+For target 16, 3000 attempts processed. Solvable Puzzle Collected: 2450
+For target 16, 4000 attempts processed. Solvable Puzzle Collected: 3266
+For target 16, 5000 attempts processed. Solvable Puzzle Collected: 4080
+For target 16, 6000 attempts processed. Solvable Puzzle Collected: 4911
+For target 16, 7000 attempts processed. Solvable Puzzle Collected: 5737
+For target 16, 8000 attempts processed. Solvable Puzzle Collected: 6567
+For target 16, 9000 attempts processed. Solvable Puzzle Collected: 7392
+For target 16, 10000 attempts processed. Solvable Puzzle Collected: 8231
+Data saved successfully to 24_NN\24_game_data.csv
+For target 17, starting data generation for 10000 samples...
+For target 17, 1000 attempts processed. Solvable Puzzle Collected: 726
+For target 17, 2000 attempts processed. Solvable Puzzle Collected: 1464
+For target 17, 3000 attempts processed. Solvable Puzzle Collected: 2197
+For target 17, 4000 attempts processed. Solvable Puzzle Collected: 2948
+For target 17, 5000 attempts processed. Solvable Puzzle Collected: 3692
+For target 17, 6000 attempts processed. Solvable Puzzle Collected: 4419
+For target 17, 7000 attempts processed. Solvable Puzzle Collected: 5170
+For target 17, 8000 attempts processed. Solvable Puzzle Collected: 5901
+For target 17, 9000 attempts processed. Solvable Puzzle Collected: 6648
+For target 17, 10000 attempts processed. Solvable Puzzle Collected: 7384
+Data saved successfully to 24_NN\24_game_data.csv
+For target 18, starting data generation for 10000 samples...
+For target 18, 1000 attempts processed. Solvable Puzzle Collected: 817
+For target 18, 2000 attempts processed. Solvable Puzzle Collected: 1645
+For target 18, 3000 attempts processed. Solvable Puzzle Collected: 2469
+For target 18, 4000 attempts processed. Solvable Puzzle Collected: 3286
+For target 18, 5000 attempts processed. Solvable Puzzle Collected: 4091
+For target 18, 6000 attempts processed. Solvable Puzzle Collected: 4913
+For target 18, 7000 attempts processed. Solvable Puzzle Collected: 5720
+For target 18, 8000 attempts processed. Solvable Puzzle Collected: 6537
+For target 18, 9000 attempts processed. Solvable Puzzle Collected: 7342
+For target 18, 10000 attempts processed. Solvable Puzzle Collected: 8171
+Data saved successfully to 24_NN\24_game_data.csv
+For target 19, starting data generation for 10000 samples...
+For target 19, 1000 attempts processed. Solvable Puzzle Collected: 728
+For target 19, 2000 attempts processed. Solvable Puzzle Collected: 1435
+For target 19, 3000 attempts processed. Solvable Puzzle Collected: 2133
+For target 19, 4000 attempts processed. Solvable Puzzle Collected: 2860
+For target 19, 5000 attempts processed. Solvable Puzzle Collected: 3578
+For target 19, 6000 attempts processed. Solvable Puzzle Collected: 4302
+For target 19, 7000 attempts processed. Solvable Puzzle Collected: 4995
+For target 19, 8000 attempts processed. Solvable Puzzle Collected: 5685
+For target 19, 9000 attempts processed. Solvable Puzzle Collected: 6404
+For target 19, 10000 attempts processed. Solvable Puzzle Collected: 7107
+Data saved successfully to 24_NN\24_game_data.csv
+For target 20, starting data generation for 10000 samples...
+For target 20, 1000 attempts processed. Solvable Puzzle Collected: 799
+For target 20, 2000 attempts processed. Solvable Puzzle Collected: 1584
+For target 20, 3000 attempts processed. Solvable Puzzle Collected: 2370
+For target 20, 4000 attempts processed. Solvable Puzzle Collected: 3160
+For target 20, 5000 attempts processed. Solvable Puzzle Collected: 3969
+For target 20, 6000 attempts processed. Solvable Puzzle Collected: 4765
+For target 20, 7000 attempts processed. Solvable Puzzle Collected: 5562
+For target 20, 8000 attempts processed. Solvable Puzzle Collected: 6378
+For target 20, 9000 attempts processed. Solvable Puzzle Collected: 7188
+For target 20, 10000 attempts processed. Solvable Puzzle Collected: 7976
+Data saved successfully to 24_NN\24_game_data.csv
+For target 21, starting data generation for 10000 samples...
+For target 21, 1000 attempts processed. Solvable Puzzle Collected: 733
+For target 21, 2000 attempts processed. Solvable Puzzle Collected: 1457
+For target 21, 3000 attempts processed. Solvable Puzzle Collected: 2193
+For target 21, 4000 attempts processed. Solvable Puzzle Collected: 2938
+For target 21, 5000 attempts processed. Solvable Puzzle Collected: 3673
+For target 21, 6000 attempts processed. Solvable Puzzle Collected: 4413
+For target 21, 7000 attempts processed. Solvable Puzzle Collected: 5140
+For target 21, 8000 attempts processed. Solvable Puzzle Collected: 5875
+For target 21, 9000 attempts processed. Solvable Puzzle Collected: 6612
+For target 21, 10000 attempts processed. Solvable Puzzle Collected: 7345
+Data saved successfully to 24_NN\24_game_data.csv
+For target 22, starting data generation for 10000 samples...
+For target 22, 1000 attempts processed. Solvable Puzzle Collected: 738
+For target 22, 2000 attempts processed. Solvable Puzzle Collected: 1467
+For target 22, 3000 attempts processed. Solvable Puzzle Collected: 2206
+For target 22, 4000 attempts processed. Solvable Puzzle Collected: 2948
+For target 22, 5000 attempts processed. Solvable Puzzle Collected: 3708
+For target 22, 6000 attempts processed. Solvable Puzzle Collected: 4439
+For target 22, 7000 attempts processed. Solvable Puzzle Collected: 5170
+For target 22, 8000 attempts processed. Solvable Puzzle Collected: 5919
+For target 22, 9000 attempts processed. Solvable Puzzle Collected: 6668
+For target 22, 10000 attempts processed. Solvable Puzzle Collected: 7397
+Data saved successfully to 24_NN\24_game_data.csv
+For target 23, starting data generation for 10000 samples...
+For target 23, 1000 attempts processed. Solvable Puzzle Collected: 683
+For target 23, 2000 attempts processed. Solvable Puzzle Collected: 1380
+For target 23, 3000 attempts processed. Solvable Puzzle Collected: 2076
+For target 23, 4000 attempts processed. Solvable Puzzle Collected: 2742
+For target 23, 5000 attempts processed. Solvable Puzzle Collected: 3401
+For target 23, 6000 attempts processed. Solvable Puzzle Collected: 4083
+For target 23, 7000 attempts processed. Solvable Puzzle Collected: 4755
+For target 23, 8000 attempts processed. Solvable Puzzle Collected: 5462
+For target 23, 9000 attempts processed. Solvable Puzzle Collected: 6117
+For target 23, 10000 attempts processed. Solvable Puzzle Collected: 6796
+Data saved successfully to 24_NN\24_game_data.csv
+For target 25, starting data generation for 10000 samples...
+For target 25, 1000 attempts processed. Solvable Puzzle Collected: 666
+For target 25, 2000 attempts processed. Solvable Puzzle Collected: 1319
+For target 25, 3000 attempts processed. Solvable Puzzle Collected: 1978
+For target 25, 4000 attempts processed. Solvable Puzzle Collected: 2611
+For target 25, 5000 attempts processed. Solvable Puzzle Collected: 3251
+For target 25, 6000 attempts processed. Solvable Puzzle Collected: 3897
+For target 25, 7000 attempts processed. Solvable Puzzle Collected: 4556
+For target 25, 8000 attempts processed. Solvable Puzzle Collected: 5191
+For target 25, 9000 attempts processed. Solvable Puzzle Collected: 5837
+For target 25, 10000 attempts processed. Solvable Puzzle Collected: 6480
+Data saved successfully to 24_NN\24_game_data.csv
+For target 26, starting data generation for 10000 samples...
+For target 26, 1000 attempts processed. Solvable Puzzle Collected: 721
+For target 26, 2000 attempts processed. Solvable Puzzle Collected: 1458
+For target 26, 3000 attempts processed. Solvable Puzzle Collected: 2166
+For target 26, 4000 attempts processed. Solvable Puzzle Collected: 2886
+For target 26, 5000 attempts processed. Solvable Puzzle Collected: 3576
+For target 26, 6000 attempts processed. Solvable Puzzle Collected: 4278
+For target 26, 7000 attempts processed. Solvable Puzzle Collected: 4989
+For target 26, 8000 attempts processed. Solvable Puzzle Collected: 5674
+For target 26, 9000 attempts processed. Solvable Puzzle Collected: 6391
+For target 26, 10000 attempts processed. Solvable Puzzle Collected: 7115
+Data saved successfully to 24_NN\24_game_data.csv
+For target 27, starting data generation for 10000 samples...
+For target 27, 1000 attempts processed. Solvable Puzzle Collected: 689
+For target 27, 2000 attempts processed. Solvable Puzzle Collected: 1380
+For target 27, 3000 attempts processed. Solvable Puzzle Collected: 2081
+For target 27, 4000 attempts processed. Solvable Puzzle Collected: 2776
+For target 27, 5000 attempts processed. Solvable Puzzle Collected: 3452
+For target 27, 6000 attempts processed. Solvable Puzzle Collected: 4105
+For target 27, 7000 attempts processed. Solvable Puzzle Collected: 4798
+For target 27, 8000 attempts processed. Solvable Puzzle Collected: 5480
+For target 27, 9000 attempts processed. Solvable Puzzle Collected: 6172
+For target 27, 10000 attempts processed. Solvable Puzzle Collected: 6868
+Data saved successfully to 24_NN\24_game_data.csv
+For target 28, starting data generation for 10000 samples...
+For target 28, 1000 attempts processed. Solvable Puzzle Collected: 707
+For target 28, 2000 attempts processed. Solvable Puzzle Collected: 1439
+For target 28, 3000 attempts processed. Solvable Puzzle Collected: 2144
+For target 28, 4000 attempts processed. Solvable Puzzle Collected: 2824
+For target 28, 5000 attempts processed. Solvable Puzzle Collected: 3541
+For target 28, 6000 attempts processed. Solvable Puzzle Collected: 4280
+For target 28, 7000 attempts processed. Solvable Puzzle Collected: 4997
+For target 28, 8000 attempts processed. Solvable Puzzle Collected: 5712
+For target 28, 9000 attempts processed. Solvable Puzzle Collected: 6427
+For target 28, 10000 attempts processed. Solvable Puzzle Collected: 7134
+Data saved successfully to 24_NN\24_game_data.csv
+For target 29, starting data generation for 10000 samples...
+For target 29, 1000 attempts processed. Solvable Puzzle Collected: 595
+For target 29, 2000 attempts processed. Solvable Puzzle Collected: 1189
+For target 29, 3000 attempts processed. Solvable Puzzle Collected: 1823
+For target 29, 4000 attempts processed. Solvable Puzzle Collected: 2424
+For target 29, 5000 attempts processed. Solvable Puzzle Collected: 3015
+For target 29, 6000 attempts processed. Solvable Puzzle Collected: 3591
+For target 29, 7000 attempts processed. Solvable Puzzle Collected: 4174
+For target 29, 8000 attempts processed. Solvable Puzzle Collected: 4755
+For target 29, 9000 attempts processed. Solvable Puzzle Collected: 5337
+For target 29, 10000 attempts processed. Solvable Puzzle Collected: 5929
+Data saved successfully to 24_NN\24_game_data.csv
+For target 30, starting data generation for 10000 samples...
+For target 30, 1000 attempts processed. Solvable Puzzle Collected: 698
+For target 30, 2000 attempts processed. Solvable Puzzle Collected: 1420
+For target 30, 3000 attempts processed. Solvable Puzzle Collected: 2114
+For target 30, 4000 attempts processed. Solvable Puzzle Collected: 2818
+For target 30, 5000 attempts processed. Solvable Puzzle Collected: 3516
+For target 30, 6000 attempts processed. Solvable Puzzle Collected: 4200
+For target 30, 7000 attempts processed. Solvable Puzzle Collected: 4940
+For target 30, 8000 attempts processed. Solvable Puzzle Collected: 5621
+For target 30, 9000 attempts processed. Solvable Puzzle Collected: 6332
+For target 30, 10000 attempts processed. Solvable Puzzle Collected: 7046
+Data saved successfully to 24_NN\24_game_data.csv
+For target 31, starting data generation for 10000 samples...
+For target 31, 1000 attempts processed. Solvable Puzzle Collected: 549
+For target 31, 2000 attempts processed. Solvable Puzzle Collected: 1110
+For target 31, 3000 attempts processed. Solvable Puzzle Collected: 1679
+For target 31, 4000 attempts processed. Solvable Puzzle Collected: 2220
+For target 31, 5000 attempts processed. Solvable Puzzle Collected: 2796
+For target 31, 6000 attempts processed. Solvable Puzzle Collected: 3309
+For target 31, 7000 attempts processed. Solvable Puzzle Collected: 3870
+For target 31, 8000 attempts processed. Solvable Puzzle Collected: 4428
+For target 31, 9000 attempts processed. Solvable Puzzle Collected: 5018
+For target 31, 10000 attempts processed. Solvable Puzzle Collected: 5577
+Data saved successfully to 24_NN\24_game_data.csv
+For target 32, starting data generation for 10000 samples...
+For target 32, 1000 attempts processed. Solvable Puzzle Collected: 666
+For target 32, 2000 attempts processed. Solvable Puzzle Collected: 1326
+For target 32, 3000 attempts processed. Solvable Puzzle Collected: 2013
+For target 32, 4000 attempts processed. Solvable Puzzle Collected: 2669
+For target 32, 5000 attempts processed. Solvable Puzzle Collected: 3359
+For target 32, 6000 attempts processed. Solvable Puzzle Collected: 4016
+For target 32, 7000 attempts processed. Solvable Puzzle Collected: 4706
+For target 32, 8000 attempts processed. Solvable Puzzle Collected: 5372
+For target 32, 9000 attempts processed. Solvable Puzzle Collected: 6027
+For target 32, 10000 attempts processed. Solvable Puzzle Collected: 6683
+Data saved successfully to 24_NN\24_game_data.csv
+For target 33, starting data generation for 10000 samples...
+For target 33, 1000 attempts processed. Solvable Puzzle Collected: 660
+For target 33, 2000 attempts processed. Solvable Puzzle Collected: 1293
+For target 33, 3000 attempts processed. Solvable Puzzle Collected: 1929
+For target 33, 4000 attempts processed. Solvable Puzzle Collected: 2566
+For target 33, 5000 attempts processed. Solvable Puzzle Collected: 3201
+For target 33, 6000 attempts processed. Solvable Puzzle Collected: 3819
+For target 33, 7000 attempts processed. Solvable Puzzle Collected: 4467
+For target 33, 8000 attempts processed. Solvable Puzzle Collected: 5104
+For target 33, 9000 attempts processed. Solvable Puzzle Collected: 5706
+For target 33, 10000 attempts processed. Solvable Puzzle Collected: 6336
+Data saved successfully to 24_NN\24_game_data.csv
+For target 34, starting data generation for 10000 samples...
+For target 34, 1000 attempts processed. Solvable Puzzle Collected: 557
+For target 34, 2000 attempts processed. Solvable Puzzle Collected: 1109
+For target 34, 3000 attempts processed. Solvable Puzzle Collected: 1641
+For target 34, 4000 attempts processed. Solvable Puzzle Collected: 2189
+For target 34, 5000 attempts processed. Solvable Puzzle Collected: 2713
+For target 34, 6000 attempts processed. Solvable Puzzle Collected: 3258
+For target 34, 7000 attempts processed. Solvable Puzzle Collected: 3812
+For target 34, 8000 attempts processed. Solvable Puzzle Collected: 4343
+For target 34, 9000 attempts processed. Solvable Puzzle Collected: 4929
+For target 34, 10000 attempts processed. Solvable Puzzle Collected: 5500
+Data saved successfully to 24_NN\24_game_data.csv
+For target 35, starting data generation for 10000 samples...
+For target 35, 1000 attempts processed. Solvable Puzzle Collected: 626
+For target 35, 2000 attempts processed. Solvable Puzzle Collected: 1271
+For target 35, 3000 attempts processed. Solvable Puzzle Collected: 1894
+For target 35, 4000 attempts processed. Solvable Puzzle Collected: 2529
+For target 35, 5000 attempts processed. Solvable Puzzle Collected: 3187
+For target 35, 6000 attempts processed. Solvable Puzzle Collected: 3821
+For target 35, 7000 attempts processed. Solvable Puzzle Collected: 4453
+For target 35, 8000 attempts processed. Solvable Puzzle Collected: 5070
+For target 35, 9000 attempts processed. Solvable Puzzle Collected: 5695
+For target 35, 10000 attempts processed. Solvable Puzzle Collected: 6327
+Data saved successfully to 24_NN\24_game_data.csv
+For target 36, starting data generation for 10000 samples...
+For target 36, 1000 attempts processed. Solvable Puzzle Collected: 745
+For target 36, 2000 attempts processed. Solvable Puzzle Collected: 1498
+For target 36, 3000 attempts processed. Solvable Puzzle Collected: 2244
+For target 36, 4000 attempts processed. Solvable Puzzle Collected: 2991
+For target 36, 5000 attempts processed. Solvable Puzzle Collected: 3746
+For target 36, 6000 attempts processed. Solvable Puzzle Collected: 4512
+For target 36, 7000 attempts processed. Solvable Puzzle Collected: 5251
+For target 36, 8000 attempts processed. Solvable Puzzle Collected: 5973
+For target 36, 9000 attempts processed. Solvable Puzzle Collected: 6739
+For target 36, 10000 attempts processed. Solvable Puzzle Collected: 7476
+Data saved successfully to 24_NN\24_game_data.csv
+For target 37, starting data generation for 10000 samples...
+For target 37, 1000 attempts processed. Solvable Puzzle Collected: 515
+For target 37, 2000 attempts processed. Solvable Puzzle Collected: 1033
+For target 37, 3000 attempts processed. Solvable Puzzle Collected: 1552
+For target 37, 4000 attempts processed. Solvable Puzzle Collected: 2086
+For target 37, 5000 attempts processed. Solvable Puzzle Collected: 2630
+For target 37, 6000 attempts processed. Solvable Puzzle Collected: 3147
+For target 37, 7000 attempts processed. Solvable Puzzle Collected: 3652
+For target 37, 8000 attempts processed. Solvable Puzzle Collected: 4190
+For target 37, 9000 attempts processed. Solvable Puzzle Collected: 4693
+For target 37, 10000 attempts processed. Solvable Puzzle Collected: 5212
+Data saved successfully to 24_NN\24_game_data.csv
+For target 38, starting data generation for 10000 samples...
+For target 38, 1000 attempts processed. Solvable Puzzle Collected: 564
+For target 38, 2000 attempts processed. Solvable Puzzle Collected: 1103
+For target 38, 3000 attempts processed. Solvable Puzzle Collected: 1634
+For target 38, 4000 attempts processed. Solvable Puzzle Collected: 2183
+For target 38, 5000 attempts processed. Solvable Puzzle Collected: 2676
+For target 38, 6000 attempts processed. Solvable Puzzle Collected: 3209
+For target 38, 7000 attempts processed. Solvable Puzzle Collected: 3730
+For target 38, 8000 attempts processed. Solvable Puzzle Collected: 4247
+For target 38, 9000 attempts processed. Solvable Puzzle Collected: 4777
+For target 38, 10000 attempts processed. Solvable Puzzle Collected: 5280
+Data saved successfully to 24_NN\24_game_data.csv
+For target 39, starting data generation for 10000 samples...
+For target 39, 1000 attempts processed. Solvable Puzzle Collected: 584
+For target 39, 2000 attempts processed. Solvable Puzzle Collected: 1140
+For target 39, 3000 attempts processed. Solvable Puzzle Collected: 1737
+For target 39, 4000 attempts processed. Solvable Puzzle Collected: 2325
+For target 39, 5000 attempts processed. Solvable Puzzle Collected: 2942
+For target 39, 6000 attempts processed. Solvable Puzzle Collected: 3529
+For target 39, 7000 attempts processed. Solvable Puzzle Collected: 4117
+For target 39, 8000 attempts processed. Solvable Puzzle Collected: 4726
+For target 39, 9000 attempts processed. Solvable Puzzle Collected: 5306
+For target 39, 10000 attempts processed. Solvable Puzzle Collected: 5893
+Data saved successfully to 24_NN\24_game_data.csv
+For target 40, starting data generation for 10000 samples...
+For target 40, 1000 attempts processed. Solvable Puzzle Collected: 731
+For target 40, 2000 attempts processed. Solvable Puzzle Collected: 1432
+For target 40, 3000 attempts processed. Solvable Puzzle Collected: 2141
+For target 40, 4000 attempts processed. Solvable Puzzle Collected: 2841
+For target 40, 5000 attempts processed. Solvable Puzzle Collected: 3526
+For target 40, 6000 attempts processed. Solvable Puzzle Collected: 4249
+For target 40, 7000 attempts processed. Solvable Puzzle Collected: 4938
+For target 40, 8000 attempts processed. Solvable Puzzle Collected: 5656
+For target 40, 9000 attempts processed. Solvable Puzzle Collected: 6326
+For target 40, 10000 attempts processed. Solvable Puzzle Collected: 7017
+Data saved successfully to 24_NN\24_game_data.csv
+All data generated and saved.

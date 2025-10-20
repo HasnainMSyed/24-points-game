@@ -4,6 +4,7 @@ import csv
 import os
 
 list_of_numbers = list(range(1,14))
+IMPOSSIBLE_TOKEN = "IMPOSSIBLE"
 
 # Core Logic of the 24 Games
 def get_possible_values(numbers: list[int | float]) -> set[tuple[float, str]]:
@@ -57,14 +58,14 @@ def all_possible_results(numbers: list[int]) -> set[tuple[float, str]]:
 
     return all_results
 
-def get_a_solution_string_for_target(target: int, outputs: set[tuple[float, str]]) -> str | None:
+def get_a_solution_string_for_target(target: int, outputs: set[tuple[float, str]]) -> str:
     target_float = float(target)
     for value, expression in outputs:
         if abs(value - target_float) < 1e-6:
             # Found one! Return it immediately and stop searching.
             return expression
     # Return None if no solution
-    return None
+    return IMPOSSIBLE_TOKEN
 
 def random_four_cards():
     # Draws 4 random numbers from 1-13 (with replacement)
@@ -87,28 +88,32 @@ def save_data(data, mode): # Default to writing mode
 
 def generate_data(target: int, num_of_samples: int, mode: str):
     data = []
-    print(f"Starting data generation for {num_of_samples} samples...")
+    solvable_count = 0
+    print(f"For target {target}, starting data generation for {num_of_samples} samples...")
 
     for i in range(num_of_samples):
         numbers = random_four_cards()
 
-        all_results = all_possible_results(numbers)
-        solution_str = get_a_solution_string_for_target(target, all_results)
+        all_results = all_possible_results(numbers) # Get all the solutions for a set of numbers
+        solution_str = get_a_solution_string_for_target(target, all_results) # Produce a single string output
 
-        if solution_str:
-            # after the comma, we join the list of elements in numbers after converting them to string individually
-            input_str = ",".join(map(str, numbers))
-            data.append((input_str, str(target), solution_str)) 
+        input_list_with_target = numbers + [target] # Include target as part of the input token
+        input_str = ",".join(map(str, input_list_with_target)) # Map the inputs into a string
+
+        data.append((input_str, str(target), solution_str))
             # data appends a tuple of string-ed version of input digits, target and solution
+        
+        if solution_str != IMPOSSIBLE_TOKEN:
+            solvable_count += 1
         
         if (i + 1) % 1000 == 0:
             # Tells me how much data is processed by a certain point
-            print(f"For target {target}, {i + 1} attempts processed. Collected {len(data)} solvable puzzles.")
+            print(f"For target {target}, {i + 1} attempts processed. Solvable Puzzle Collected: {solvable_count}")
 
     save_data(data, mode)
 
 if __name__ == "__main__":
-    num_of_targets, num_of_samples_per_target = 40, 2000
+    num_of_targets, num_of_samples_per_target = 40, 10000
     
     # Generating and priortizing 24
     generate_data(target=24, num_of_samples=num_of_samples_per_target, mode="w")
